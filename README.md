@@ -18,11 +18,12 @@
 ## ✍️ إعداد الطالبة:
 - الاسم: براءة عبد الله
 - المستوى: السنة الثالثة - هندسة برمجيات
-p0ol## Screenshots
 
-![](images/1.png)
-![](images/2.png)
-![](images/3.png)
-![](images/4.png)
-![](images/5.png)
-![](images/6.png)
+## Screenshots
+
+<img src="images/1.png" width="250"/>
+<img src="images/2.png" width="250"/>
+<img src="images/3.png" width="250"/>
+<img src="images/4.png" width="250"/>
+<img src="images/5.png" width="250"/>
+<img src="images/6.png" width="250"/>
